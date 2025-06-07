@@ -25,10 +25,11 @@ The notebook covers the following steps:
 ## Data
 
 The project uses two datasets:
-*   `winequality-red.csv`
-*   `winequality-white.csv`
 
-These datasets contain various physicochemical measurements and a 'quality' score.
+*   **Red Wine Quality Dataset:** This dataset contains information about red variants of the Portuguese "Vinho Verde" wine. It includes 11 physicochemical features and a quality score (output variable).
+*   **White Wine Quality Dataset:** This dataset contains information about white variants of the Portuguese "Vinho Verde" wine. It also includes 11 physicochemical features and a quality score.
+
+Both datasets are publicly available and commonly used for demonstrating classification tasks. In this project, they are combined to create a larger dataset for training and evaluating the models.
 
 ## Dependencies
 
